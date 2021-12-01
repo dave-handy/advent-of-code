@@ -1,3 +1,4 @@
+package com.handy
 package com.handy.aoc2021
 
 import scala.io.Source
